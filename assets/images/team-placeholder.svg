@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Platzhalterbild für ein Teammitglied</title>
+  <rect width="800" height="500" fill="#e8ebee"/>
+  <circle cx="400" cy="185" r="82" fill="#aab2bb"/>
+  <path d="M225 500c10-116 76-181 175-181s165 65 175 181" fill="#aab2bb"/>
+</svg>
